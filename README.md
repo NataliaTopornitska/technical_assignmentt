@@ -1,6 +1,6 @@
 # Placement of markers on the map
 
- [DEMO LINK](https://nataliatopornitska.github.io/technical_assignmentt/)
+   [DEMO LINK](https://nataliatopornitska.github.io/technical_assignmentt/)
 
 Implement the following functionality:
 
