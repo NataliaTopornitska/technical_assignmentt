@@ -28,7 +28,7 @@ There must be one main entity:
 
 ## Additional launch instructions:
 
-- git clone 
+- git clone https://github.com/NataliaTopornitska/technical_assignmentt
 - npm install
 - npm start
 
