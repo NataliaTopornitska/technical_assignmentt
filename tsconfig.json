@@ -1,5 +1,21 @@
+// {
+//   "extends": "@mate-academy/students-ts-config",
+//   "include": [
+//     "src"
+//   ]
+// }
+
 {
   "extends": "@mate-academy/students-ts-config",
+  "compilerOptions": {
+    "target": "es5",                           // Цільовий рівень ECMAScript
+    "module": "commonjs",                      // Система модулів
+    "jsx": "react",                            // Підтримка JSX
+    "strict": true,                            // Включає строгий режим
+    "esModuleInterop": true,                   // Дозволяє імпорт ES6 модулів
+    "skipLibCheck": true,                      // Пропускає перевірку декларацій типів
+    "forceConsistentCasingInFileNames": true  // Забезпечує єдину регістрацію
+  },
   "include": [
     "src"
   ]
